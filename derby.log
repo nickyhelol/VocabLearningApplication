@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 05 16:04:31 NZST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0163-ce1e-229a-000006df6a20 
+on database directory C:\Users\Nick He\Documents\NetBeansProjects\PDC-Assignment2\VocabAppDB with class loader sun.misc.Launcher$AppClassLoader@14ae5a5 
+Loaded from file:/C:/Users/Nick%20He/Documents/NetBeansProjects/PDC-Assignment2/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Nick He\Documents\NetBeansProjects\PDC-Assignment2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
